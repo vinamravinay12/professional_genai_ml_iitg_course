@@ -211,3 +211,4 @@ __marimo__/
 
 # Additional venvs
 .venv*/
+deeplearning_python/loan_data.csv
